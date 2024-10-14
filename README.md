@@ -24,5 +24,4 @@ RLGym is now installed! simply run example.py from our repo to ensure everything
 Usage
 
 
-https://github.com/user-attachments/assets/e2d253fb-bf86-41f4-ae73-6aa782b39ca8
 
